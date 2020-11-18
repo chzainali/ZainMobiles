@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "265883985536",
+    "firebase_url": "https://zm-adminapp.firebaseio.com",
+    "project_id": "zm-adminapp",
+    "storage_bucket": "zm-adminapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265883985536:android:ab8c2fb1fd8ae9e09b6865",
+        "android_client_info": {
+          "package_name": "app.techland.zainmobiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265883985536-8putub846rstkkl40lr2t52925bf5p9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XH-GENeQCBVnVgK46zHgUsqfLWF2NmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265883985536-8putub846rstkkl40lr2t52925bf5p9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265883985536:android:4691f408c918c8d89b6865",
+        "android_client_info": {
+          "package_name": "app.techland.zmadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265883985536-8putub846rstkkl40lr2t52925bf5p9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XH-GENeQCBVnVgK46zHgUsqfLWF2NmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265883985536-8putub846rstkkl40lr2t52925bf5p9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

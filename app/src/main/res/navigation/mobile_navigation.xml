@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="app.techland.zainmobiles.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_smartphone"
+        android:name="app.techland.zainmobiles.ui.smartphone.SmartPhoneFragment"
+        android:label="@string/menu_smartphone"
+        tools:layout="@layout/fragment_smartphone" />
+
+    <fragment
+        android:id="@+id/nav_keypadphone"
+        android:name="app.techland.zainmobiles.ui.keypadphone.KeypadPhoneFragment"
+        android:label="@string/menu_keypadphone"
+        tools:layout="@layout/fragment_keypadphone" />
+
+    <fragment
+        android:id="@+id/nav_mobileaccessories"
+        android:name="app.techland.zainmobiles.ui.mobileaccessories.MobileAccessoriesFragment"
+        android:label="@string/menu_mobileaccessories"
+        tools:layout="@layout/fragment_mobile_accessories"/>
+
+    <fragment
+        android:id="@+id/nav_contactus"
+        android:name="app.techland.zainmobiles.ui.contactus.ContactUsFragment"
+        android:label="@string/menu_contactus"
+        tools:layout="@layout/fragment_contact_us"/>
+
+
+</navigation>

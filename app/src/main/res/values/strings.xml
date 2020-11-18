@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Zain Mobiles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Zain Mobiles</string>
+    <string name="nav_header_subtitle">Whatsapp No : 923377223712</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_smartphone">Smart Phone</string>
+    <string name="menu_keypadphone">Keypad Phone</string>
+    <string name="menu_mobileaccessories">Mobile Accessories</string>
+    <string name="menu_contactus">Contact Us</string>
+    <string name="menu_share">Share</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="to">to</string>
+
+
+    <string name="main_text">Zain Mobiles</string>
+    <string name="smart_phone">Smart Phones</string>
+    <string name="keypad_phone">Keypad Phones</string>
+    <string name="mobile_accessories">Mobile Accessories</string>
+
+    <string name="owner">Owner : </string>
+    <string name="name">M Shoaib Anwar</string>
+    <string name="email">Email : </string>
+    <string name="Email">Zainmobiles700@gmail.com</string>
+    <string name="whatsapp">Whatsapp : </string>
+    <string name="no1">92337–7223712</string>
+    <string name="number">Number   : </string>
+    <string name="no2"> 92308–0523035</string>
+    <string name="address">Address</string>
+    <string name="add1">Usmania Road</string>
+    <string name="add2">Near Taxi Stand</string>
+    <string name="add3">Shorkot City, Jhang</string>
+    <string name="add4">Punjab, Pakistan</string>
+    <string name="des1">On Reliable Price</string>
+    <string name="des2">All Kinds of</string>
+    <string name="des3">Smart Phones,</string>
+    <string name="des4">Keypad Phones,</string>
+    <string name="des5">And Mobile Accessories</string>
+    <string name="des6">Are Available</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="market_price">Market Price</string>
+    <string name="good_price">Good Price</string>
+    <string name="battery">Battery</string>
+    <string name="color">Color</string>
+    <string name="sims">Sims</string>
+    <string name="camera">Camera</string>
+    <string name="storage">Storage</string>
+    <string name="screensize">Screen Size</string>
+    <string name="fcamera">Front Camera</string>
+    <string name="bcamera">Back Camera</string>
+    <string name="description">Description</string>
+    <string name="contact_btn">For Online Order Contact Us</string>
+    <string name="todo">TODO</string>
+</resources>
